@@ -1,0 +1,8 @@
+{
+  "serverName" : "serverVitor",
+  "serverIP" : "127.0.0.1",
+  "portListen" : 8766,
+  "memcachedServer" : "172.30.24.163",
+  "memcachedPort" : 11211,
+  "yearData" : [1994]
+}
